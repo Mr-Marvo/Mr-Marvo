@@ -19,6 +19,6 @@ Here are some ideas to get you started:
      ![fb](https://user-images.githubusercontent.com/49220298/174730829-86290788-7d0f-4243-b558-eaf717e53284.png) 
      [/aknpremakumara](https://www.facebook.com/aknpremakumara/)    
      ![twitter](https://user-images.githubusercontent.com/49220298/174752767-0b205eb5-dffc-477c-8c2c-98b5b2c21c50.png) 
-     [/Nishan_97](https://twitter.com/Nishan_97/)
+     [/Nishan_97](https://twitter.com/Nishan_97/)                                                         
      ![in](https://user-images.githubusercontent.com/49220298/174732355-b6965905-8bf2-439c-be88-74d0237fa540.png)
      [/aknpremakumara](https://www.linkedin.com/in/aknpremakumara/)
