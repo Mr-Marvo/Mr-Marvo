@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about developments
 - 📫 How to reach me:
       ✉ aknpremakumara@gmail.com
-      <i class="icon-facebook"></i> 
+      ![fb!](fb.png)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
