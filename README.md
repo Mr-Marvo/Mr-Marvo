@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about developments
 - 📫 How to reach me:
       ✉ aknpremakumara@gmail.com
-      ![fb](https://user-images.githubusercontent.com/49220298/174730486-dfe5912a-ba11-4d1a-93b1-fd8fc93073d2.png)
+      ![fb](https://user-images.githubusercontent.com/49220298/174730674-c632de16-0544-4b22-9832-a7d90388d2c2.png)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
