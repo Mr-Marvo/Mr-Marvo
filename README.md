@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 
 - 🧔 I'm dev Nishan
-- 🔭 I’m currently work as a freelancer
+- 🔭 I’m currently work as a Freelancer
 - ⚡ I'm a Fullstack Web and Mobile Developer and also Blockchain Developer
-- 🌱 I’m currently learning blockchain development and next.js
+- 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
-- 💬 Ask me about developments
-- 📫 How to reach me:
+- 💬 Ask me about Developments
+- 📫 How to reach Me:
 
      
      ![gmail](https://user-images.githubusercontent.com/49220298/174732716-3a747e8e-4be8-4eec-856a-6a7808d97839.png) aknpremakumara@gmail.com  
