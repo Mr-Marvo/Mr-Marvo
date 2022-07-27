@@ -24,6 +24,6 @@ Here are some ideas to get you started:
      [aknpremakumara](https://www.linkedin.com/in/aknpremakumara/)
 
 - 🚩 Portfolio                       
-              ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                        
-              ✔ [Solana Minting dApp](https://www.solcocksclub.io/)                        
-              ✔ [Ethereum Wallet](https://devwallet.netlify.app)                        
+                ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                        
+                ✔ [Solana Minting dApp](https://www.solcocksclub.io/)                        
+                ✔ [Ethereum Wallet](https://devwallet.netlify.app)                        
