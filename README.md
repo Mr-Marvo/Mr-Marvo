@@ -8,6 +8,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact" alt="Mr-Marvo" /></p>
 
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,react)
+
 - ⚡ I'm a Fullstack Web and Mobile Developer and also Blockchain Developer
 - 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
