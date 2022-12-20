@@ -1,14 +1,8 @@
-## Hi 👋, I'm Nishan
-### A Lead Developer at Aventure IT Solution
+<h1 align="center">Hi 🖖, I'm dev Nishan</h1>
+<h3 align="center">Lead Developer at A Lead Developer at Aventure IT Solution</h3>
 
-<!--
-**Mr-Marvo/Mr-Marvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo"</p>
 
-Here are some ideas to get you started:
--->
-
-- 🧔 I'm dev Nishan
-- 🔭 I’m currently work as a Freelancer
 - ⚡ I'm a Fullstack Web and Mobile Developer and also Blockchain Developer
 - 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
