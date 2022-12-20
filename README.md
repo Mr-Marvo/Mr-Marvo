@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to devNishan [Blockchain Developer]</h3>
+## Welcome to devNishan [Blockchain Developer]
 
 <!--
 **Mr-Marvo/Mr-Marvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
