@@ -4,6 +4,8 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Marvo&show_icons=true&locale=en" alt="Mr-Marvo" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Marvo&date_format=M%20j%5B%2C%20Y%5D" alt="Mr-Marvo" /></p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact" alt="Mr-Marvo" /></p>
+
 - ⚡ I'm a Fullstack Web and Mobile Developer and also Blockchain Developer
 - 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
