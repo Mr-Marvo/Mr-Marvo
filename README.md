@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🖖, I'm dev Nishan</h1>
 <h3 align="center">Lead Developer at A Lead Developer at Aventure IT Solution</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Marvo&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Marvo" /> </p>
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Marvo&show_icons=true&locale=en" alt="Mr-Marvo" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Marvo&date_format=M%20j%5B%2C%20Y%5D" alt="Mr-Marvo" /></p>
 
