@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact" alt="Mr-Marvo" /></p>
 
-![My Skills](https://skillicons.dev/icons?i=react,angular,next,js,solidity,blockchain,laravel,php,tailwind,css,html,materialui,java,mysql,github,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=react,angular,next,js,solidity,laravel,php,tailwind,css,html,materialui,java,mysql,github,bootstrap)
 
 - ⚡ I'm a Fullstack Web and Mobile Developer and also Blockchain Developer
 - 🌱 I’m currently Learning Blockchain Development and Next.js
