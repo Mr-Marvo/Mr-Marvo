@@ -2,7 +2,7 @@
 <h3 align="center">Lead Developer at A Lead Developer at Aventure IT Solution</h3>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo"</p>
-<p align="center"> <img src="[https://github-profile-trophy.vercel.app/?username=Mr-Marvo](https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact)" alt="Mr-Marvo"</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact" alt="Mr-Marvo"</p>
 
 - ⚡ I'm a Fullstack Web and Mobile Developer and also Blockchain Developer
 - 🌱 I’m currently Learning Blockchain Development and Next.js
