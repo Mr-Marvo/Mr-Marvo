@@ -1,4 +1,4 @@
-### Welcome to devNishan [Blockchain Developer]
+<h3 align="center">Welcome to devNishan [Blockchain Developer]</h3>
 
 <!--
 **Mr-Marvo/Mr-Marvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking for new clients from all over the world
 - 💬 Ask me about Developments
 - 📫 How to reach Me:
-
      
      ![gmail](https://user-images.githubusercontent.com/49220298/174732716-3a747e8e-4be8-4eec-856a-6a7808d97839.png) aknpremakumara@gmail.com  
      ![fb](https://user-images.githubusercontent.com/49220298/174730829-86290788-7d0f-4243-b558-eaf717e53284.png) 
