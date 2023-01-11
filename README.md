@@ -23,7 +23,7 @@
 ### Support:
 <p>
      <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe #mr.marvo" />
      </a>
 </p>
 
