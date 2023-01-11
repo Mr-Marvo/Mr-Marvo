@@ -19,8 +19,8 @@
      ![in](https://user-images.githubusercontent.com/49220298/174732355-b6965905-8bf2-439c-be88-74d0237fa540.png) 
      [aknpremakumara](https://www.linkedin.com/in/aknpremakumara/)
 
-<p align="center">
-     <p>### Portfolio</p>
+### Support:
+<p>
      <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
      </a>
