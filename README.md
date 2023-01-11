@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Marvo&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Marvo" /> </p>
 
+<a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
+   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Marvo&show_icons=true&locale=en" alt="Mr-Marvo" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Marvo&date_format=M%20j%5B%2C%20Y%5D" alt="Mr-Marvo" /></p>
 
