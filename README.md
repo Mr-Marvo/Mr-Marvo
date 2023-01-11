@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/Mr-Marvo/Mr-Marvo/blob/463cd666284d0ef8c5b7e3e086a279d0ec729650/assets/github-header-image.png" alt="Mr-Marvo" /></h1>
-<h3 align="center">Lead Developer at Aventure IT Solution</h3>
+<h3 align="center">Co-Founder & Lead Developer at Aventure IT Solution</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Marvo&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Marvo" /> </p>
 
