@@ -28,7 +28,7 @@
 </p>
 
 ### Languages & Frameworks:
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,next,js,typescript,vue,solidity,laravel,php,tailwind,css,html,materialui,java,flutter,mysql,mongodb,github,bootstrap,sass,firebase,sqlite,wordpress" /></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,next,js,typescript,vue,solidity,laravel,php,tailwind,css,html,materialui,java,flutter,mysql,mongodb,github,bootstrap,sass,firebase,sqlite,wordpress,drupal,fix,shopify" /></p>
 
 ### Stats:
 <p align="center"> 
