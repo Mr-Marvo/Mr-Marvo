@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Marvo&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Marvo" /> </p>
 
-<a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
+<a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow" align='center'>
    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
