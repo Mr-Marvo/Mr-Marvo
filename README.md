@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo" /></p>
 
-- 🎯 Building up new Company <a href='aventureit.com'>'Aventure IT Solution'</a>
+- 🎯 Building up new startup <a href='aventureit.com'>'Aventure IT Solution'</a>
 - ⚡ I'm a Fullstack Web and Mobile Developer with more than 5 Years Experience
 - 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
