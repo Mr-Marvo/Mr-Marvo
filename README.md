@@ -20,16 +20,16 @@
      [aknpremakumara](https://www.linkedin.com/in/aknpremakumara/)
 
 <p align="center">
+     Support:
 <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact" alt="Mr-Marvo" /></p>
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,next,js,solidity,laravel,php,tailwind,css,html,materialui,java,mysql,github,bootstrap" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Marvo&show_icons=true&locale=en" alt="Mr-Marvo" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Marvo&date_format=M%20j%5B%2C%20Y%5D" alt="Mr-Marvo" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Marvo&show_icons=true&locale=en&layout=compact" alt="Mr-Marvo" /></p>
 
 ### Portfolio
    ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                        
