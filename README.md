@@ -29,6 +29,8 @@
      [Nishan_97](https://twitter.com/Nishan_97/)                                                         
      ![in](https://user-images.githubusercontent.com/49220298/174732355-b6965905-8bf2-439c-be88-74d0237fa540.png) 
      [aknpremakumara](https://www.linkedin.com/in/aknpremakumara/)
+     
+     <p align="center"> <img src="https://skillicons.dev/icons?i=facebook" /></p>
 
 ### Portfolio
    ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                        
