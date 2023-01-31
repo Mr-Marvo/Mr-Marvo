@@ -36,6 +36,5 @@
 </p>
 
 ### Portfolio
-   ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                        
-   ✔ [Solana Minting dApp](https://www.solcocksclub.io/)                        
+   ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                            
    ✔ [Ethereum Wallet](https://devwallet.netlify.app)                        
