@@ -5,8 +5,8 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo" /></p>
 
-- 🎯 Building up new startup <a href='aventureit.com'>'Aventure IT Solution'</a>
-- ⚡ I'm a Fullstack Web Developer with more than 6 Years Experience
+- 🎯 Building up new IT startup <a href='aventureit.com'>'Aventure IT Solution'</a> & <a href='xonact.com'>'Xonact'</a> Game Development Company.
+- ⚡ I'm a Web Developer with more than 6 Years Experience
 - 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
 - 💬 Ask me about Angular, React, Laravel and Flutter
