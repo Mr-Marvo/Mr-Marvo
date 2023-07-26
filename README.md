@@ -18,7 +18,7 @@
        ![insta](https://github.com/Mr-Marvo/Mr-Marvo/blob/main/assets/instagram.png) 
      ![twitter](https://user-images.githubusercontent.com/49220298/174752767-0b205eb5-dffc-477c-8c2c-98b5b2c21c50.png) 
      [Nishan_97](https://twitter.com/Nishan_97/)                                                         
-     ![in](https://www.linkedin.com/in/aknpremakumara/)
+     ![https://github.com/Mr-Marvo/Mr-Marvo/blob/main/assets/instagram.png](https://www.linkedin.com/in/aknpremakumara/)
 
 
 ### Support:
