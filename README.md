@@ -21,24 +21,11 @@
      [aknpremakumara](https://www.linkedin.com/in/aknpremakumara/)
 
 
-
-<p style="display: flex; flex-wrap: wrap; align-content: justify-between; width: 100%">
-  <p>
-      ### Support:
-     <p>
-          <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
+### Support:
+<p>
+     <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
            <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe #mr.marvo" />
-          </a>
-     </p>
-  </p>
-  <p>
-      ### Support:
-     <p>
-          <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
-           <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe #mr.marvo" />
-          </a>
-     </p>
-  </p>
+     </a>
 </p>
 
 ### My Skills:
