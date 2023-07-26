@@ -22,24 +22,24 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-content: justify-between; width: 100%">
-  <div>
+<p style="display: flex; flex-wrap: wrap; align-content: justify-between; width: 100%">
+  <p>
       ### Support:
      <p>
           <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
            <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe #mr.marvo" />
           </a>
      </p>
-  </div>
-  <div>
+  </p>
+  <p>
       ### Support:
      <p>
           <a href="https://www.buymeacoffee.com/mr.marvo" target="_blank" rel="noreferrer nofollow">
            <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffe #mr.marvo" />
           </a>
      </p>
-  </div>
-</div>
+  </p>
+</p>
 
 ### My Skills:
 ![My Skills](https://skillicons.dev/icons?i=react,angular,next,js,webpack,typescript,vue,jquery,solidity,laravel,php,tailwind,css,html,materialui,java,python,flutter,mysql,mongodb,github,bootstrap,sass,firebase,sqlite,wordpress,aws,figma,github,gitlab)
