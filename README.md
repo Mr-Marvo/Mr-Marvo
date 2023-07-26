@@ -12,7 +12,7 @@
 - 💬 Ask me about Angular, React, Laravel and Flutter
 - 📫 How to reach Me:
      
-     ![gmail](<img align="center" src="./assets/gmail.png" height="30" width="30" alt="GMail" />) aknpremakumara@gmail.com  
+     ![gmail](<img align="center" src="[./assets/gmail.png](https://github.com/Mr-Marvo/Mr-Marvo/blob/463cd666284d0ef8c5b7e3e086a279d0ec729650/assets/gmail.png)" height="30" width="30" alt="GMail" />) aknpremakumara@gmail.com  
      ![fb](https://user-images.githubusercontent.com/49220298/174730829-86290788-7d0f-4243-b558-eaf717e53284.png) 
      [aknpremakumara](https://www.facebook.com/aknpremakumara/)    
      ![twitter](https://user-images.githubusercontent.com/49220298/174752767-0b205eb5-dffc-477c-8c2c-98b5b2c21c50.png) 
