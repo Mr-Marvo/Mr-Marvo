@@ -5,11 +5,11 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Marvo" alt="Mr-Marvo" /></p>
 
-- 🎯 Building up new IT startup <a href='aventureit.com'>'Aventure IT Solution'</a> & <a href='xonact.com'>'Xonact'</a> Game Development Company.
+- 🎯 Building up new IT startup <a href='aventureit.com'>'Aventure IT Solution'</a>.
 - ⚡ I'm a Web Developer with more than 6 Years Experience
 - 🌱 I’m currently Learning Blockchain Development and Next.js
 - 👯 I’m looking for new clients from all over the world
-- 💬 Ask me about Angular, React, Laravel and Flutter
+- 💬 Ask me about Angular, React, Next and Node
 - 📫 How to reach Me:
      
 ![gmail](https://user-images.githubusercontent.com/49220298/174732716-3a747e8e-4be8-4eec-856a-6a7808d97839.png) aknpremakumara@gmail.com  
