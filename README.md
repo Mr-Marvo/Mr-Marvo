@@ -31,7 +31,7 @@
 ### Stats:
 <p align="center"> 
     <img width=400 src='https://github-readme-stats.vercel.app/api?username=Mr-Marvo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-    <img width=400 src='https://streak-stats.demolab.com?username=Mr-Marvo&theme=vue-dark&hide_border=true' />
+    <img width=400 src='https://streak-stats.demolab.com?user=Mr-Marvo&theme=vue-dark&hide_border=true' />
     <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Marvo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
