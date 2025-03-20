@@ -29,17 +29,7 @@
 ![My Skills](https://skillicons.dev/icons?i=react,angular,next,js,webpack,typescript,vue,jquery,solidity,laravel,php,tailwind,css,html,materialui,java,python,flutter,mysql,mongodb,github,bootstrap,sass,firebase,sqlite,wordpress,aws,figma,github,gitlab)
 
 ### Stats:
-<p align="center"> 
-    <img width=400 src="https://github-readme-stats.vercel.app/api?username=Mr-Marvo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-    <img width=400 src="https://streak-stats.demolab.com?user=Mr-Marvo&theme=vue-dark&hide_border=true" />
-</p>
-
-<p align="center">
-    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Marvo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Marvo&theme=vue-dark&hide_border=true)
 
 ### Portfolio
    ✔ [Ethereum Sample Minting dApp](https://didemraffe.netlify.app)                            
